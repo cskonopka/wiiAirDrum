@@ -24,7 +24,8 @@ To Connect a wiiMote
 3) Once connected, an image adjacent to the on/off buttons will start streaming the x
 (blue), y (red) and z (green) axis movement from the wiiMote.
 
-How to Play!:
+How to Play!
+
 Once the wiiMote is connected, a sample is triggered by striking downward in a drum-like motion. A sample can be selected from a pool of 5 folders by using the directional pad, allowing the user to select their favorite folder of samples samples to be played. The samples within the selected folder can be selected after selecting the folder for the appropriate sampler by using the + and – button. Once a sample is chosen for the decided button, the sample can be triggered by pressing and holding one of the buttons below and striking down in a drum-like motion.
 
 Down D-Pad = wiiMote OPEN Strike (Sampler #1 & 5)
@@ -40,5 +41,6 @@ Up.
 3) Select the sample manually with the computer on on the controller by pressing the + or -
 to scroll through the sample list.
 
-Presets:
+Presets
+
 Presets can be created by holding shift and clicking with a mouse/trackpad. To erase a preset, hold option + shift then click the blue preset that needs to be deleted. Also presets can be saved by clicking the “write” button with is to the right of the preset bubbles. Settings can be loaded by clicking the “read” button below the “write” button.
