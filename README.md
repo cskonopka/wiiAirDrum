@@ -1,6 +1,8 @@
 wiiAirDrum
 ==========
 
+Project featued on Cycling74.com [http://cycling74.com/project/_-wiiairdrum-_/]
+
 wii-based Drum Sampler created in MaxMSP for a Music Therapy Development Group at Berklee College of Music
 
 About
