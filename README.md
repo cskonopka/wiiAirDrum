@@ -49,3 +49,8 @@ to scroll through the sample list.
 ## Presets
 
 Presets can be created by holding shift and clicking with a mouse/trackpad. To erase a preset, hold option + shift then click the blue preset that needs to be deleted. Also presets can be saved by clicking the “write” button with is to the right of the preset bubbles. Settings can be loaded by clicking the “read” button below the “write” button.
+
+# Video Demo
+
+https://github.com/cskonopka/wiiAirDrum/assets/7625379/45ef1efb-8217-48a5-8aba-e9cf18d5981f
+
