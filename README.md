@@ -8,7 +8,7 @@
 
 This project originated as part of a Music Therapy Development Group at Berklee College of Music during the 2012 Spring Semester, led by Dr. Richard Boulanger and Professor Chi Kim. The purpose for this group was to create musical applications via MaxMSP for the Assistive Music Technology Lab for Blind and Visually Impaired Musicians. My goal for this project was to create a sampler within MaxMSP that could be controlled via a wiiMote. This function allows the user the ability to play the drums without a kit or trigger samples without pressing a pad. There are many applications for this, try it out and expand your artistic vocabulary with the wiiAirDrum. Enjoy!
 
-Project featued on Cycling74.com [http://cycling74.com/project/_-wiiairdrum-_/]
+Project featued on [Cycling74.com](https://cycling74.com/projects/_-wiiairdrum-_)
 
 # Notes
 
